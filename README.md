@@ -7,7 +7,7 @@
 This repository is the canonical source for REST API specifications for Microsoft Azure.
 
 ## Basics
-If you're a spec author looking for information about all of of the repositories and steps in the pipeline, go to the [adx-documentation-pr](https://github.com/Azure/adx-documentation-pr) repository. Make sure to [join the Github Azure organization](http://aka.ms/azuregithub) to get access to that repo.
+If you're a spec author looking for information about all of of the repositories and steps in the pipeline, go to the [adx-documentation-pr](https://github.com/Azure/adx-documentation-pr) repository. Make sure to [join the Github Azure organization](http://aka.ms/azuregithub) to get access to that repository.
 
 ## Getting started
 - Our [Contribution guidelines](./.github/CONTRIBUTING.md) walks you through the process of contributing to this repository.
