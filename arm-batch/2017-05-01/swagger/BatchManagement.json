@@ -988,7 +988,7 @@
         },
         "keyVaultReference": {
           "$ref": "#/definitions/KeyVaultReference",
-          "description": "A reference to the Azure key vault associated with the Batch account."
+          "description": "A reference to the Azure Key Vault associated with the Batch account."
         }
       },
       "description": "The properties of a Batch account."
